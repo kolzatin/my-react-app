@@ -10,7 +10,7 @@ const IndexPage = () => (
       <Link to="/video">Watch the video</Link>
       <div className="logos">
         <img src="/images/logo-sketch.png"
-        width="50px"/>
+        width="50px" />   
         <img src="/images/logo-framer.png"
         width="50px"/>
         <img src="/images/logo-invision.png"
