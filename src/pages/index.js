@@ -39,10 +39,24 @@ const IndexPage = () => (
     </div>
     <div className="Cards">
         <h2> 11 course, more coming </h2>
-        <Card 
-        title="React for Designers"
-        text="12 sections"
-        image="/image/logo-xcode.png"/>
+        <div className="CardGroup">
+          <Card 
+            title="DesignSystem"
+            text="10 sections"
+            image='/images/ios11-iphone-x.jpg'/>
+          <Card 
+            title="React for Designers"
+            text="11 sections"
+            image='/images/ios11-iphone-x.jpg'/>
+          <Card 
+            title="Sound Design"
+            text="5 sections"
+            image='/images/ios11-iphone-x.jpg'/>
+          <Card 
+            title="ARKit 2"
+            text="10 sections"
+            image='/images/ios11-iphone-x.jpg'/>
+        </div>
     </div>
   </div>
 )
