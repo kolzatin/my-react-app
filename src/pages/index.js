@@ -47,11 +47,11 @@ const IndexPage = () => (
           <Card 
             title="React for Designers"
             text="11 sections"
-            image='/images/ios11-iphone-x.jpg'/>
+            image='/images/Learn iOS 11 Design.jpeg'/>
           <Card 
             title="Sound Design"
             text="5 sections"
-            image='/images/ios11-iphone-x.jpg'/>
+            image='/images/Learn iOS 11 Design.jpeg'/>
           <Card 
             title="ARKit 2"
             text="10 sections"
